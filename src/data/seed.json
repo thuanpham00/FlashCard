@@ -1,0 +1,2204 @@
+{
+  "words": [
+    {
+      "id": "ddcb8915-8b4a-4f00-908f-564bc216bd0e",
+      "term": "attend",
+      "type": "verb",
+      "meaning": "tham gia",
+      "synonyms": [
+        "join"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "9080811f-c58e-4aa7-810e-54dfaf227979",
+      "term": "attract",
+      "type": "verb",
+      "meaning": "thu hút",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "1b89adbe-5922-43bd-ac30-d586ef5c511d",
+      "term": "increase",
+      "type": "noun",
+      "meaning": "sự tăng lên, tăng lên",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "4251f4e1-1dad-4960-8585-a76db07db79b",
+      "term": "measure",
+      "type": "noun",
+      "meaning": "sự đo lường, đo lường",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "6d637343-0f03-45d8-8d9d-99765b755732",
+      "term": "motivation",
+      "type": "noun",
+      "meaning": "động lực",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "729984f3-1f4f-4b69-b98a-185cbd4d4d7f",
+      "term": "organization",
+      "type": "noun",
+      "meaning": "tổ chức",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "827f18dd-9eef-468e-bd0d-43449dfbd529",
+      "term": "psychological",
+      "type": "adjective",
+      "meaning": "thuộc về tâm lý",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "31ba30ec-2d84-41e0-b66b-d3674ba56f06",
+      "term": "suitable",
+      "type": "adjective",
+      "meaning": "phù hợp",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "ee6668d5-6480-468e-9ca4-ab5516f1013e",
+      "term": "volunteer",
+      "type": "noun",
+      "meaning": "tình nguyện viên; (v) làm tình nguyện",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-28T12:00:00.000Z"
+    },
+    {
+      "id": "e01fd617-8f6a-4159-8edd-98cfa7a9b519",
+      "term": "differ",
+      "type": "verb",
+      "meaning": "khác, thay đổi",
+      "synonyms": [
+        "vary"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "e1bb166f-fab7-49ab-a462-f7c32c6437f1",
+      "term": "different",
+      "type": "adjective",
+      "meaning": "khác nhau",
+      "synonyms": [
+        "varying"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "988b473d-4f8c-4eed-b4ae-67d91ce1206d",
+      "term": "apply for",
+      "type": "verb",
+      "meaning": "nộp đơn (xin việc, xin học)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "3535e084-5a4b-4d62-937a-a7dfda5c987a",
+      "term": "coupon",
+      "type": "noun",
+      "meaning": "phiếu giảm giá",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "b21469e0-1c1e-43f4-ab01-e11fcd01fd0c",
+      "term": "renovation",
+      "type": "noun",
+      "meaning": "sự tân trang",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "5c2d3a9e-4579-4f7a-b6db-1b9f041e269c",
+      "term": "profit",
+      "type": "noun",
+      "meaning": "lợi nhuận",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "44cdff92-64e3-4c15-9330-e8b750e3d14f",
+      "term": "highway",
+      "type": "noun",
+      "meaning": "con đường (lớn), xa lộ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "57891e76-89a7-4322-849c-0493c29709ae",
+      "term": "secretary",
+      "type": "noun",
+      "meaning": "thư ký",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "82de30ec-0a6b-41af-8f5f-b9199562a970",
+      "term": "conference",
+      "type": "noun",
+      "meaning": "cuộc hội nghị",
+      "synonyms": [
+        "convention"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "8c02187a-1ca6-4d64-b630-62b26a3f6c16",
+      "term": "demonstration",
+      "type": "noun",
+      "meaning": "cuộc biểu tình; sự trình diễn/giới thiệu (demo)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-29T12:00:00.000Z"
+    },
+    {
+      "id": "674e5f9a-8b6c-4b52-953d-e9184cb747aa",
+      "term": "By the time",
+      "type": "conjunction",
+      "meaning": "trước thời điểm (khi)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "6e1bc93f-32ed-4f1a-8190-87caa1925b44",
+      "term": "inspection",
+      "type": "noun",
+      "meaning": "sự kiểm tra",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "963c1544-aa77-40dd-a3da-d7532a572388",
+      "term": "regular",
+      "type": "adjective",
+      "meaning": "thường xuyên, đều đặn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "65950b0b-c644-46f9-a087-4d6fc3b18c79",
+      "term": "commitment",
+      "type": "noun",
+      "meaning": "sự cam kết",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "fcc0bd15-64f4-432a-b547-4eb9a744578f",
+      "term": "promoted",
+      "type": "verb",
+      "meaning": "được thăng chức",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "d4c2de75-6cb0-411f-81be-30eb2727ca8a",
+      "term": "specified",
+      "type": "verb",
+      "meaning": "chỉ định, quy định rõ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "cee1c9e2-494c-4999-b1f5-a3a91361b789",
+      "term": "assistance",
+      "type": "noun",
+      "meaning": "sự hỗ trợ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "23edb182-a390-49f3-997a-62cfa3d35984",
+      "term": "opportunity",
+      "type": "noun",
+      "meaning": "cơ hội",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "4b55c786-9c8d-422d-abe3-af346bb7a0e8",
+      "term": "potential",
+      "type": "noun",
+      "meaning": "tiềm năng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-06-30T12:00:00.000Z"
+    },
+    {
+      "id": "a86b5b93-155a-4e17-b3da-c7e297903fab",
+      "term": "recognize",
+      "type": "verb",
+      "meaning": "công nhận, nhận ra",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "202cfd7b-32d4-4fbe-a99b-0ebedcfa5459",
+      "term": "benefit",
+      "type": "noun",
+      "meaning": "lợi ích; (v) mang lại lợi ích",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "5414a8eb-e35b-4caf-ab00-d2f939b13f72",
+      "term": "dedication",
+      "type": "noun",
+      "meaning": "sự cống hiến",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "18c94bdd-9310-4edf-b7be-215771e88840",
+      "term": "mention",
+      "type": "verb",
+      "meaning": "đề cập",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "f9c4d56f-26ce-4a41-b366-395aa2062e26",
+      "term": "subscribe",
+      "type": "verb",
+      "meaning": "đăng ký",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "fb33322b-80b5-4116-aa93-4a0ac6e42b38",
+      "term": "subscription",
+      "type": "noun",
+      "meaning": "sự đăng ký",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "50bcc3d9-0687-47dc-b2d1-e0bb71d7f014",
+      "term": "maintenance",
+      "type": "noun",
+      "meaning": "sự sửa chữa, bảo trì",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "a1b53eaa-faf0-43cd-9329-a1b1606f5f87",
+      "term": "anticipate",
+      "type": "verb",
+      "meaning": "mong đợi, dự đoán",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "8d12bb82-5a30-45ad-9697-0a795cddab5a",
+      "term": "application",
+      "type": "noun",
+      "meaning": "đơn xin, sự nộp đơn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "ee3de8a6-60cd-4feb-9291-4d1518bf8547",
+      "term": "terminal",
+      "type": "noun",
+      "meaning": "nhà ga, cổng chờ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "23116374-edc9-47aa-b8ca-b890e47d4776",
+      "term": "hire",
+      "type": "verb",
+      "meaning": "tuyển dụng",
+      "synonyms": [
+        "employ",
+        "recruit"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "9c17452a-1ead-4a0f-aa1d-c0c9dbf4fbbf",
+      "term": "earning",
+      "type": "verb",
+      "meaning": "tạo ra (thu nhập)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "28f3fa75-1c28-4ae3-acca-5e17e32554e8",
+      "term": "resource",
+      "type": "noun",
+      "meaning": "nguồn lực",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "033fec76-4069-404b-a9ee-49f4867fc169",
+      "term": "throughout the day",
+      "type": "adverb",
+      "meaning": "suốt cả ngày",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-06T12:00:00.000Z"
+    },
+    {
+      "id": "f2b98e0a-d5c7-4ac4-8449-8693733240bc",
+      "term": "renew",
+      "type": "verb",
+      "meaning": "làm mới, gia hạn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "41aa58d4-fedd-4678-a694-51eb829eff29",
+      "term": "expire",
+      "type": "verb",
+      "meaning": "hết hạn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "ef6a220f-7487-41ad-a402-6964d881ff59",
+      "term": "undergo",
+      "type": "verb",
+      "meaning": "trải qua",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "14e69cb9-755b-4999-845c-c60174189d81",
+      "term": "meet",
+      "type": "verb",
+      "meaning": "đáp ứng (yêu cầu)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "30415d41-f104-4033-aef2-ceb109437642",
+      "term": "substantial",
+      "type": "adjective",
+      "meaning": "to lớn, đáng kể",
+      "synonyms": [
+        "considerable",
+        "significant"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "8e64631b-3168-40e3-8231-8cd705dbc537",
+      "term": "destination",
+      "type": "noun",
+      "meaning": "điểm đến, địa điểm",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "680df80b-80d2-4d8a-9bde-405696c7fad4",
+      "term": "identification",
+      "type": "noun",
+      "meaning": "sự xác minh danh tính",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "cd6cdf50-824e-4b81-a64f-10bc59c6b44f",
+      "term": "identify",
+      "type": "verb",
+      "meaning": "xác minh, nhận dạng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "444de691-d103-485b-86fe-5009c9d5235c",
+      "term": "announce",
+      "type": "verb",
+      "meaning": "thông báo",
+      "synonyms": [
+        "inform"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "c3cc8f99-1dad-4ae0-a21f-2d8f3a3f7a5e",
+      "term": "sensitive",
+      "type": "adjective",
+      "meaning": "nhạy cảm",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "9168c149-d1dd-457d-b157-91c82d41abf9",
+      "term": "journal",
+      "type": "noun",
+      "meaning": "tạp chí",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "051a66aa-16d2-4569-82b0-bcc0973b386d",
+      "term": "competitive",
+      "type": "adjective",
+      "meaning": "cạnh tranh",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "c83f5691-b28e-4f46-b77c-be4ea720be61",
+      "term": "affordable",
+      "type": "adjective",
+      "meaning": "giá cả phải chăng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "0c803a15-534e-4269-9cd4-f8395682fbbf",
+      "term": "courteous",
+      "type": "adjective",
+      "meaning": "lịch sự, nhã nhặn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-08T12:00:00.000Z"
+    },
+    {
+      "id": "cd9ef271-ef3c-4996-988f-f07ce40ad179",
+      "term": "banquet",
+      "type": "noun",
+      "meaning": "tiệc (lớn)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "2d56672f-cd68-4cd8-8ae7-989fdf3a79a4",
+      "term": "passenger",
+      "type": "noun",
+      "meaning": "hành khách",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "831f6b13-d24c-44ad-8e6a-a4314a7e81c6",
+      "term": "domestic",
+      "type": "adjective",
+      "meaning": "nội địa",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "c524b77d-16be-47d0-9ac5-59b9fb02f792",
+      "term": "international",
+      "type": "adjective",
+      "meaning": "quốc tế",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "d1cc13a6-a927-4c6d-ad8f-d046aa084d6a",
+      "term": "in order to",
+      "type": "conjunction",
+      "meaning": "để (làm gì)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "07c9eec8-fe7d-403c-93fe-1a78d6858d50",
+      "term": "charge",
+      "type": "verb",
+      "meaning": "sạc pin",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "ae00cee4-c5f7-4a36-bd52-0adc0725d879",
+      "term": "require",
+      "type": "verb",
+      "meaning": "yêu cầu",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "7a3c2996-3c1f-4f05-b6e8-dc8cfe4789a3",
+      "term": "inform",
+      "type": "verb",
+      "meaning": "thông báo",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "609d119b-18bf-4770-90cd-023f8576cfb7",
+      "term": "waive",
+      "type": "verb",
+      "meaning": "từ bỏ, miễn (phí)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "924b66aa-e513-4304-a86c-12e9f272f7cb",
+      "term": "be aware of",
+      "type": "adjective",
+      "meaning": "nhận thức (về)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "ed08251f-5919-414c-9e6a-ab7a8c816471",
+      "term": "shuttle",
+      "type": "noun",
+      "meaning": "xe trung chuyển, đưa đón",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "e50c792a-541e-467e-9c35-50fd8d2fb207",
+      "term": "eager to",
+      "type": "adjective",
+      "meaning": "háo hức",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "5f5031d2-8806-44be-a4f2-09a65ed396b5",
+      "term": "manufacture",
+      "type": "verb",
+      "meaning": "sản xuất",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "6a3b880f-1dca-44d6-bd83-3cf14b306698",
+      "term": "currently",
+      "type": "adverb",
+      "meaning": "hiện tại",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-10T12:00:00.000Z"
+    },
+    {
+      "id": "4d6319b0-4b0e-4782-a99e-0eaeaf1757e9",
+      "term": "ski",
+      "type": "verb",
+      "meaning": "trượt tuyết",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "id": "25d5a01e-3898-4561-8248-7fb48dbccd59",
+      "term": "adjust",
+      "type": "verb",
+      "meaning": "điều chỉnh",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "id": "5b533b53-69f0-4848-ad84-9424488875f5",
+      "term": "docked",
+      "type": "verb",
+      "meaning": "cập bến",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-11T12:00:00.000Z"
+    },
+    {
+      "id": "435ee4fc-9c25-43a9-b12a-44a7c189d68f",
+      "term": "invoice",
+      "type": "noun",
+      "meaning": "hoá đơn",
+      "synonyms": [
+        "bill",
+        "receipt"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-14T12:00:00.000Z"
+    },
+    {
+      "id": "fa96f218-ef3a-4b11-a7b2-edea907302ab",
+      "term": "trouble",
+      "type": "noun",
+      "meaning": "rắc rối, vấn đề, khó khăn",
+      "synonyms": [
+        "problem",
+        "difficulty",
+        "challenge"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-14T12:00:00.000Z"
+    },
+    {
+      "id": "15e78dbb-2b8b-4e45-bbe1-df8b8d975ac2",
+      "term": "stack",
+      "type": "verb",
+      "meaning": "xếp chồng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "c768a16e-8b79-457a-84bf-307a1c60ce68",
+      "term": "tire",
+      "type": "noun",
+      "meaning": "lốp xe",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "6a7c24de-8d18-4963-a384-205048769327",
+      "term": "depend on",
+      "type": "verb",
+      "meaning": "phụ thuộc vào",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "6f214fce-a141-4776-8178-f570677e6b63",
+      "term": "under tight budget",
+      "type": "adjective",
+      "meaning": "eo hẹp về ngân sách",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "e40a7b0f-5abc-44a6-9176-16adb2c256c2",
+      "term": "headquarters",
+      "type": "noun",
+      "meaning": "trụ sở chính",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "58fbb6c4-2cb0-48d2-b8b0-dea780403449",
+      "term": "offer",
+      "type": "verb",
+      "meaning": "đề nghị",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "6882b4cb-6977-457d-ba05-82ca0b361240",
+      "term": "incur",
+      "type": "verb",
+      "meaning": "phải chịu, phát sinh",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "07f209ff-bc9c-451d-8025-43cedfae9617",
+      "term": "invest in",
+      "type": "verb",
+      "meaning": "đầu tư vào",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "e928cb48-9846-42bb-80af-a15a3ea71ac9",
+      "term": "reimburse",
+      "type": "verb",
+      "meaning": "hoàn trả lại tiền",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "226cdd57-b7a2-412e-9b81-ed5a93800fe2",
+      "term": "provision",
+      "type": "noun",
+      "meaning": "hợp đồng, điều khoản",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "b26fb2be-d487-4235-8028-0f1d1f644845",
+      "term": "satisfaction",
+      "type": "noun",
+      "meaning": "sự thoả mãn, hài lòng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "f997f938-cc9b-496f-a805-a25ab8ae6525",
+      "term": "tank",
+      "type": "noun",
+      "meaning": "thùng, bể chứa",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "75655533-71b8-4ccb-bec4-e52dd6040f9e",
+      "term": "corner",
+      "type": "noun",
+      "meaning": "góc",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "94407909-1d7f-4c0b-817b-342c44410146",
+      "term": "display",
+      "type": "noun",
+      "meaning": "màn hình, sự trưng bày",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "4a3dc995-ce56-4b82-bf95-52a25cd29ec5",
+      "term": "luncheon",
+      "type": "noun",
+      "meaning": "tiệc trưa",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "b302aa85-2fff-43aa-9802-e40efff115c7",
+      "term": "client",
+      "type": "noun",
+      "meaning": "khách hàng",
+      "synonyms": [
+        "customer"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "2cf2bbfa-640c-4c04-b415-20ab166adbbf",
+      "term": "stair",
+      "type": "noun",
+      "meaning": "cầu thang",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "c729db8d-eda9-4ca3-bc36-d46b7f9c1c99",
+      "term": "nutritionist",
+      "type": "noun",
+      "meaning": "chuyên gia dinh dưỡng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "07e58821-45c2-45bd-b009-7cf168966f9d",
+      "term": "cause",
+      "type": "noun",
+      "meaning": "nguyên nhân; (v) gây ra",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "175569d5-e67f-4795-a6df-6c823cc2a023",
+      "term": "appreciate",
+      "type": "verb",
+      "meaning": "đánh giá cao, cảm kích",
+      "synonyms": [
+        "value"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "1e2ac5e2-cb70-4f59-9e94-118d351dfb67",
+      "term": "present",
+      "type": "verb",
+      "meaning": "trình bày, trình ra",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "8cc45f0a-e9b8-4c16-b9ae-cecf96a31496",
+      "term": "presentation",
+      "type": "noun",
+      "meaning": "bài thuyết trình",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "dc2fc1f9-314c-4297-8643-140c89d17039",
+      "term": "retire",
+      "type": "verb",
+      "meaning": "nghỉ hưu",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "2af0c5cc-cf83-424a-a3a8-27f691837aff",
+      "term": "final",
+      "type": "adjective",
+      "meaning": "cuối cùng, kết thúc",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "9b0b30f1-cf64-4228-a753-d0d81d3d4adf",
+      "term": "finalize",
+      "type": "verb",
+      "meaning": "hoàn thành",
+      "synonyms": [
+        "finish",
+        "complete"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "8c4b7a85-3e9f-440f-9bbb-e79c28149135",
+      "term": "consult",
+      "type": "verb",
+      "meaning": "tư vấn, tham khảo",
+      "synonyms": [
+        "advise",
+        "counsel"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "4488aa8b-1e76-4d77-85ce-4b8f1facfec0",
+      "term": "hotel",
+      "type": "noun",
+      "meaning": "khách sạn",
+      "synonyms": [
+        "accommodation"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "52e0d361-e391-4eaa-a9b0-816c7583f0c9",
+      "term": "reimbursed",
+      "type": "verb",
+      "meaning": "được hoàn tiền",
+      "synonyms": [
+        "refund"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "286a2c4f-1f98-4c8d-9c47-99a63794a825",
+      "term": "fabric",
+      "type": "noun",
+      "meaning": "vải vóc",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "22430007-986c-46c1-a713-e9b9facda6e9",
+      "term": "turn down",
+      "type": "verb",
+      "meaning": "giảm, từ chối",
+      "synonyms": [
+        "decline"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-27T12:00:00.000Z"
+    },
+    {
+      "id": "e0150a1f-3921-43c9-8cf4-18a000d13435",
+      "term": "automobile",
+      "type": "noun",
+      "meaning": "xe ô tô",
+      "synonyms": [
+        "car"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "adf12297-3294-4b68-9852-6c983e4cd7c4",
+      "term": "brochure",
+      "type": "noun",
+      "meaning": "cuốn sách nhỏ (quảng cáo)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "6203e99b-f8ba-401d-b725-003e46703823",
+      "term": "coworker",
+      "type": "noun",
+      "meaning": "đồng nghiệp",
+      "synonyms": [
+        "partner"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "fa818b24-fed7-4641-aca3-b254d30b542e",
+      "term": "replace",
+      "type": "verb",
+      "meaning": "thay thế",
+      "synonyms": [
+        "substitute"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "5864079c-6596-4941-a576-364d3b6de6ae",
+      "term": "freelance",
+      "type": "adjective",
+      "meaning": "tự do (làm việc)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "3870038b-8271-49ff-b414-4513ebe9e630",
+      "term": "conduct",
+      "type": "verb",
+      "meaning": "thi hành, thực hiện",
+      "synonyms": [
+        "carry out",
+        "implement"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "50e5a842-d803-476a-a7ae-d77b8d5a3022",
+      "term": "marked",
+      "type": "verb",
+      "meaning": "đánh dấu",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "0029b243-2e41-4782-81a7-71dfa99405bc",
+      "term": "gallery",
+      "type": "noun",
+      "meaning": "phòng trưng bày",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "1a1a899a-c7cb-4797-93dd-e86a8d559719",
+      "term": "rely on",
+      "type": "verb",
+      "meaning": "phụ thuộc vào",
+      "synonyms": [
+        "rely upon",
+        "depend on"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "91e58e62-3902-44c1-96b9-d911637111e7",
+      "term": "reliable",
+      "type": "adjective",
+      "meaning": "đáng tin cậy",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "40c8c662-e026-4e42-aed8-43fd998c2c6f",
+      "term": "impressive",
+      "type": "adjective",
+      "meaning": "gây ấn tượng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "fdbd2b5b-cedb-473b-a2db-b8ca69073d1b",
+      "term": "illustrate",
+      "type": "verb",
+      "meaning": "minh hoạ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "9fbe6b06-b429-4871-8686-03babd7083cf",
+      "term": "construction",
+      "type": "noun",
+      "meaning": "sự thi công, xây dựng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "baeb8b5e-fe8e-4f2f-8db5-31f878c8082a",
+      "term": "directory",
+      "type": "noun",
+      "meaning": "danh mục",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "a1e35ad3-f7b9-42d3-b598-8664d8b66e9b",
+      "term": "schedule",
+      "type": "noun",
+      "meaning": "lịch trình",
+      "synonyms": [
+        "plan",
+        "agenda",
+        "timeline",
+        "timetable",
+        "calendar"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "95366842-cbc9-4e53-b20c-af680af5b160",
+      "term": "record",
+      "type": "verb",
+      "meaning": "ghi lại; (n) hồ sơ; (adj) kỷ lục",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "9ffe3243-e286-4241-815e-d0432dc4ec9c",
+      "term": "supposed",
+      "type": "adjective",
+      "meaning": "giả sử",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "e6c5ac17-7e96-4cad-9017-c41428766d6a",
+      "term": "reassure",
+      "type": "verb",
+      "meaning": "trấn an",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "1526b707-43a7-41f6-8d88-007409144298",
+      "term": "competition",
+      "type": "noun",
+      "meaning": "cuộc thi",
+      "synonyms": [
+        "contest"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "7ff968d1-8cfa-4db8-b304-63273d36c9aa",
+      "term": "shade",
+      "type": "noun",
+      "meaning": "bóng râm; (v) che nắng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "a71db023-290f-4306-893d-9da28ba1ecb7",
+      "term": "tent",
+      "type": "noun",
+      "meaning": "cái lều",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "bbcda863-fc64-4d7d-b7ff-9aa844c10939",
+      "term": "concern",
+      "type": "noun",
+      "meaning": "lo âu, mối quan tâm",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "3ed3d6e2-0917-4095-b48e-226932669ace",
+      "term": "elected",
+      "type": "verb",
+      "meaning": "được bầu chọn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "9c7f8c27-5302-4713-b73d-531356212367",
+      "term": "furniture",
+      "type": "noun",
+      "meaning": "nội thất",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "b0708682-a445-47b7-8cbc-d210e7523c08",
+      "term": "temporary",
+      "type": "adjective",
+      "meaning": "tạm thời",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "83a928fd-f7a9-4574-b453-d40d5ec6e8b8",
+      "term": "hassle",
+      "type": "noun",
+      "meaning": "rắc rối, phiền phức",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "cd19e89f-b52b-4e13-809f-45ca1f244035",
+      "term": "receptionist",
+      "type": "noun",
+      "meaning": "nhân viên lễ tân",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "e8379fd4-3246-4c91-bf5d-d2fd1c4c811c",
+      "term": "imply",
+      "type": "verb",
+      "meaning": "ngụ ý",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "86952b3a-396e-476d-995d-f3f3868f6a4b",
+      "term": "effective",
+      "type": "adjective",
+      "meaning": "hiệu quả",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "d6b5e8eb-8afc-4494-acad-1b16c06d990f",
+      "term": "innovative",
+      "type": "adjective",
+      "meaning": "sáng tạo",
+      "synonyms": [
+        "creative"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "422b598f-45d1-4fbe-a41a-d984aa97b519",
+      "term": "brainstorming",
+      "type": "noun",
+      "meaning": "sáng tạo ý tưởng (theo nhóm)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "13da052c-d947-42ca-8f95-a65c5353746c",
+      "term": "fair",
+      "type": "noun",
+      "meaning": "hội chợ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "45ab4cea-4ff8-4c92-9196-8853d9a15b5a",
+      "term": "get in touch",
+      "type": "verb",
+      "meaning": "liên hệ",
+      "synonyms": [
+        "contact"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "d7e4dbc1-6010-41ef-8f53-e0fe98b41d23",
+      "term": "justify",
+      "type": "verb",
+      "meaning": "biện minh, giải thích",
+      "synonyms": [
+        "explain"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "88ab14b1-48eb-4bfb-b298-69092af7abed",
+      "term": "expressed",
+      "type": "verb",
+      "meaning": "thể hiện, bày tỏ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "f2ee8522-8c95-4e4d-93cc-37dc53446126",
+      "term": "grocery",
+      "type": "noun",
+      "meaning": "cửa hàng tạp hoá",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "a554d59c-a435-496b-83aa-35b66531f311",
+      "term": "shuttle service",
+      "type": "noun",
+      "meaning": "dịch vụ trung chuyển",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "2dfb9ac2-7e5e-4e1b-bda9-e784f18dddda",
+      "term": "dealership",
+      "type": "noun",
+      "meaning": "đại lý",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-28T12:00:00.000Z"
+    },
+    {
+      "id": "9f216378-ae4c-437d-bfa0-9b74b2995cf3",
+      "term": "potential",
+      "type": "noun",
+      "meaning": "tiềm năng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "id": "aba6ce72-cfe9-4c19-b2da-745353d015e0",
+      "term": "potted plants",
+      "type": "noun",
+      "meaning": "cây trồng trong chậu",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "id": "6f3477a5-cb89-4143-ab6e-1ec5eabe64de",
+      "term": "local",
+      "type": "adjective",
+      "meaning": "thuộc về địa phương",
+      "synonyms": [
+        "regional"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "id": "55a8fb08-b8dd-4174-8eba-acc32db5e786",
+      "term": "donate",
+      "type": "verb",
+      "meaning": "quyên góp",
+      "synonyms": [
+        "sponsor"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-30T12:00:00.000Z"
+    },
+    {
+      "id": "acd71421-5eb8-4726-8e01-908ee67ac27b",
+      "term": "expense",
+      "type": "noun",
+      "meaning": "chi phí, giá cả",
+      "synonyms": [
+        "cost",
+        "fee",
+        "charge",
+        "price"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "92032bd7-4444-4640-90ef-fef07d247762",
+      "term": "attach",
+      "type": "verb",
+      "meaning": "đính kèm",
+      "synonyms": [
+        "enclose"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "e3ff16b5-a1b9-4813-b6bd-a4a3f26b8b4e",
+      "term": "incurred",
+      "type": "verb",
+      "meaning": "phát sinh",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "93a2d008-9825-4c08-b91a-587033ba150f",
+      "term": "admission fee",
+      "type": "noun",
+      "meaning": "phí vào cổng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "082c9c01-2f1e-48ca-9662-669994bd0486",
+      "term": "waiver",
+      "type": "noun",
+      "meaning": "sự loại trừ, miễn trừ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "f1fdaf7e-06a6-4843-9f5b-2671f8c7e1da",
+      "term": "host",
+      "type": "verb",
+      "meaning": "sắp xếp, tổ chức",
+      "synonyms": [
+        "hold",
+        "set up",
+        "organize",
+        "arrange"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "f42ff3f5-c602-4bf3-902f-07164e93de15",
+      "term": "overdue",
+      "type": "adjective",
+      "meaning": "quá hạn",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "313b325e-8ca0-4471-9dd9-26597b3379f9",
+      "term": "check",
+      "type": "verb",
+      "meaning": "kiểm tra",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "0f488d49-c91b-4079-a0ad-51e8ba84d56a",
+      "term": "checkup",
+      "type": "noun",
+      "meaning": "sự kiểm tra (sức khoẻ)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "f1be4207-17b6-408b-bf45-df498fb50997",
+      "term": "remove to",
+      "type": "verb",
+      "meaning": "di dời đến",
+      "synonyms": [
+        "transfer to",
+        "relocate to"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "3ee305b5-e770-4c98-980d-5e4fe1cde326",
+      "term": "street",
+      "type": "noun",
+      "meaning": "con đường",
+      "synonyms": [
+        "road",
+        "lane",
+        "way",
+        "highway",
+        "avenue"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "dde7ac4f-16c1-47f0-a44e-0a85ee396101",
+      "term": "intersection",
+      "type": "noun",
+      "meaning": "ngã tư",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "c01774d0-0250-4918-a360-eec0c2fa4321",
+      "term": "flexible",
+      "type": "adjective",
+      "meaning": "linh hoạt",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "e22b0aba-9bb8-445f-bd04-c4794076aedf",
+      "term": "specific",
+      "type": "adjective",
+      "meaning": "cụ thể",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "521c9b75-a7fb-4209-a2f4-dedb8c9994da",
+      "term": "expand",
+      "type": "verb",
+      "meaning": "mở rộng",
+      "synonyms": [
+        "extend"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-07-31T12:00:00.000Z"
+    },
+    {
+      "id": "78163e8b-037e-436c-a9dd-2a7fd10cd99e",
+      "term": "tenant",
+      "type": "noun",
+      "meaning": "người thuê nhà",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "fdcfb130-a636-4b9e-9100-cb6ee3a1d6b3",
+      "term": "corporate",
+      "type": "noun",
+      "meaning": "công ty (tập đoàn)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "a5865657-56fb-4f8a-8e81-1d8ed796cd51",
+      "term": "possible",
+      "type": "adjective",
+      "meaning": "có thể",
+      "synonyms": [
+        "can"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "e697fbaa-26d6-4887-b99c-7ee4920cabc4",
+      "term": "formal",
+      "type": "adjective",
+      "meaning": "trang trọng",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "16526a2d-b1b1-4426-b339-919546800ba6",
+      "term": "tailor",
+      "type": "verb",
+      "meaning": "may (vá)",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "5066b658-c2a3-411a-8ef6-4a1cdd5585db",
+      "term": "downtown",
+      "type": "noun",
+      "meaning": "trung tâm (thành phố)",
+      "synonyms": [
+        "center"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "21f33038-90cb-4b15-8a49-33968afb5289",
+      "term": "rural",
+      "type": "adjective",
+      "meaning": "thuộc vùng ngoại ô / nông thôn",
+      "synonyms": [
+        "countryside",
+        "rustic",
+        "suburban"
+      ],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "608e120e-f8c4-4aa6-8785-ef4f85cddd45",
+      "term": "temporary",
+      "type": "adjective",
+      "meaning": "tạm thời",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "5b027710-3dbf-4ba6-87eb-9864aeb21f01",
+      "term": "former",
+      "type": "adjective",
+      "meaning": "cũ, cựu",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "12613fa5-859d-456b-8601-63812e357b04",
+      "term": "exception",
+      "type": "noun",
+      "meaning": "ngoại lệ",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "3423b24c-e520-4b76-ad81-85ea85df31bb",
+      "term": "procedure",
+      "type": "noun",
+      "meaning": "thủ tục",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "2d2b4c2c-9f6c-404c-b4f5-b30430c140f4",
+      "term": "resident",
+      "type": "noun",
+      "meaning": "người dân, cư dân",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    },
+    {
+      "id": "af69f58e-dd7b-4bd5-91a7-ae71fe2168c4",
+      "term": "patient",
+      "type": "noun",
+      "meaning": "bệnh nhân",
+      "synonyms": [],
+      "progress": {
+        "known": false,
+        "reviewCount": 0
+      },
+      "createdAt": "2026-08-01T12:00:00.000Z"
+    }
+  ]
+}
