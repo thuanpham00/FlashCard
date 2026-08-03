@@ -36,7 +36,7 @@ export function FlashCard({ word, mode = 'flip', mc, onAnswered }: Props) {
           <div className="text-xs uppercase tracking-widest opacity-80">
             {WORD_TYPE_LABEL[word.type]} · Chọn nghĩa đúng
           </div>
-          <div className="text-4xl md:text-5xl font-bold mt-3 text-center break-words">
+          <div className="text-3xl sm:text-4xl md:text-5xl font-bold mt-3 text-center break-words">
             {word.term}
           </div>
           {word.example && (
@@ -115,7 +115,7 @@ export function FlashCard({ word, mode = 'flip', mc, onAnswered }: Props) {
     >
       <div
         className={clsx(
-          'relative w-full h-72 rounded-3xl shadow-card transition-transform duration-500 preserve-3d',
+          'relative w-full h-64 sm:h-72 rounded-3xl shadow-card transition-transform duration-500 preserve-3d',
           flipped && 'rotate-y-180'
         )}
       >
@@ -123,7 +123,7 @@ export function FlashCard({ word, mode = 'flip', mc, onAnswered }: Props) {
           <div className="text-xs uppercase tracking-widest opacity-80">
             {WORD_TYPE_LABEL[word.type]}
           </div>
-          <div className="text-4xl md:text-5xl font-bold mt-3 text-center break-words">
+          <div className="text-3xl sm:text-4xl md:text-5xl font-bold mt-3 text-center break-words">
             {word.term}
           </div>
           <div className="mt-6 text-xs opacity-80">Bấm để lật xem nghĩa</div>

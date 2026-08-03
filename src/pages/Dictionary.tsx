@@ -65,7 +65,7 @@ export function Dictionary() {
 
   return (
     <div className="space-y-6">
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         <StatCard label="Tổng số từ" value={stats.total} tone="brand" />
         <StatCard label="Đã thuộc" value={stats.known} tone="emerald" />
         <StatCard label="Chưa thuộc" value={stats.unknown} tone="amber" />
@@ -111,14 +111,14 @@ export function Dictionary() {
             </option>
           ))}
         </select>
-        <div className="flex rounded-lg border border-slate-300 overflow-hidden">
+        <div className="w-full grid grid-cols-3 rounded-lg border border-slate-300 overflow-hidden">
           {(['all', 'known', 'unknown'] as StatusFilter[]).map((s) => (
             <button
               key={s}
               type="button"
               onClick={() => setStatusFilter(s)}
               className={clsx(
-                'px-3 py-2 text-xs font-medium transition',
+                'px-3 py-2 text-xs font-medium transition text-center',
                 statusFilter === s
                   ? 'bg-brand-600 text-white'
                   : 'bg-white text-slate-600 hover:bg-slate-50'
@@ -130,9 +130,12 @@ export function Dictionary() {
         </div>
       </div>
 
-      <div className="flex items-center gap-2 text-sm text-slate-600">
-        <span className="text-xs uppercase tracking-wide text-slate-500">Sắp xếp:</span>
-        <div className="flex rounded-lg border border-slate-300 overflow-hidden">
+      <div className="flex flex-col gap-3 sm:flex-row sm:flex-wrap sm:items-center">
+        <div className="flex flex-wrap items-center gap-2">
+          <span className="text-xs uppercase tracking-wide text-slate-500">
+            Sắp xếp:
+          </span>
+          <div className="flex rounded-lg border border-slate-300 overflow-hidden">
           {(
             [
               { id: 'newest', label: 'Mới nhất' },
@@ -145,7 +148,7 @@ export function Dictionary() {
               type="button"
               onClick={() => setSortMode(opt.id)}
               className={clsx(
-                'px-3 py-1.5 text-xs font-medium transition',
+                'px-3 py-2 sm:py-1.5 text-xs font-medium transition',
                 sortMode === opt.id
                   ? 'bg-brand-600 text-white'
                   : 'bg-white text-slate-600 hover:bg-slate-50'
@@ -154,8 +157,9 @@ export function Dictionary() {
               {opt.label}
             </button>
           ))}
+          </div>
         </div>
-        <span className="ml-auto text-xs text-slate-500">
+        <span className="text-xs text-slate-500 sm:ml-auto">
           Hiển thị {filtered.length} / {words.length} từ
         </span>
         <button
@@ -169,7 +173,7 @@ export function Dictionary() {
               void resetToSeed().then(() => reload());
             }
           }}
-          className="px-3 py-1.5 text-xs rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300"
+          className="w-full sm:w-auto px-3 py-2.5 text-xs rounded-lg bg-slate-100 hover:bg-slate-200 text-slate-700 border border-slate-300"
           title="Khôi phục danh sách từ vựng ban đầu"
         >
           Khôi phục mặc định

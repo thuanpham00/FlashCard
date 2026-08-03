@@ -93,7 +93,7 @@ export function WordForm({ initial, onSubmit, onCancel }: Props) {
   return (
     <form
       onSubmit={handleSubmit}
-      className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm space-y-4"
+      className="bg-white border border-slate-200 rounded-2xl p-4 sm:p-6 shadow-sm space-y-4"
     >
       <div className="flex items-center justify-between">
         <h2 className="text-lg font-semibold text-slate-800">
@@ -158,7 +158,7 @@ export function WordForm({ initial, onSubmit, onCancel }: Props) {
           <label className="block text-sm font-medium text-slate-700 mb-1">
             Từ đồng nghĩa
           </label>
-          <div className="flex gap-2">
+          <div className="flex flex-col sm:flex-row gap-2">
             <input
               type="text"
               value={synonymInput}
@@ -175,7 +175,7 @@ export function WordForm({ initial, onSubmit, onCancel }: Props) {
             <button
               type="button"
               onClick={addSynonym}
-              className="px-3 py-2 rounded-lg bg-slate-200 hover:bg-slate-300 text-slate-700 text-sm font-medium"
+              className="px-3 py-2.5 rounded-lg bg-slate-200 hover:bg-slate-300 text-slate-700 text-sm font-medium sm:shrink-0"
             >
               Thêm
             </button>

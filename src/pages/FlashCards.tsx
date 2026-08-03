@@ -206,9 +206,9 @@ export function FlashCards() {
 
   return (
     <div className="space-y-6">
-      <div className="bg-white border border-slate-200 rounded-2xl shadow-sm p-4 flex flex-col md:flex-row md:items-center md:justify-between gap-3">
-        <div className="flex flex-wrap items-center gap-3">
-          <div className="flex rounded-lg border border-slate-300 overflow-hidden w-fit">
+      <div className="bg-white border border-slate-200 rounded-2xl shadow-sm p-4 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
+        <div className="flex flex-col sm:flex-row flex-wrap items-stretch sm:items-center gap-3 w-full md:w-auto">
+          <div className="grid grid-cols-3 rounded-lg border border-slate-300 overflow-hidden w-full sm:w-auto">
             {(['all', 'unknown', 'known'] as Scope[]).map((s) => (
               <button
                 key={s}
@@ -218,7 +218,7 @@ export function FlashCards() {
                   if (s !== 'all') setSession(null);
                 }}
                 className={clsx(
-                  'px-4 py-2 text-sm font-medium transition',
+                  'px-3 sm:px-4 py-2 text-sm font-medium transition text-center',
                   scope === s
                     ? 'bg-brand-600 text-white'
                     : 'bg-white text-slate-600 hover:bg-slate-50'
@@ -228,14 +228,14 @@ export function FlashCards() {
               </button>
             ))}
           </div>
-          <div className="flex rounded-lg border border-slate-300 overflow-hidden w-fit">
+          <div className="grid grid-cols-2 rounded-lg border border-slate-300 overflow-hidden w-full sm:w-auto">
             {(['mc', 'flip'] as FlashCardMode[]).map((m) => (
               <button
                 key={m}
                 type="button"
                 onClick={() => setMode(m)}
                 className={clsx(
-                  'px-4 py-2 text-sm font-medium transition',
+                  'px-3 sm:px-4 py-2 text-sm font-medium transition text-center',
                   mode === m
                     ? 'bg-indigo-600 text-white'
                     : 'bg-white text-slate-600 hover:bg-slate-50'
@@ -246,7 +246,7 @@ export function FlashCards() {
             ))}
           </div>
         </div>
-        <div className="flex items-center gap-3">
+        <div className="flex flex-wrap items-center gap-2 w-full md:w-auto">
           {mode === 'mc' && total > 0 && isSessionActive && (
             <div className="text-sm text-slate-500">
               Đúng {correctCount}/{answeredCount}
@@ -346,12 +346,12 @@ export function FlashCards() {
       </div>
 
       {current && !showStartForm && (
-        <div className="flex flex-wrap items-center justify-center gap-3">
+        <div className="flex flex-wrap items-center justify-center gap-2 w-full max-w-xl mx-auto">
           <button
             type="button"
             onClick={prev}
             disabled={index === 0}
-            className="px-4 py-2 rounded-lg bg-slate-200 hover:bg-slate-300 disabled:opacity-40 text-slate-700 text-sm font-medium"
+            className="w-full sm:w-auto px-4 py-2.5 rounded-lg bg-slate-200 hover:bg-slate-300 disabled:opacity-40 text-slate-700 text-sm font-medium"
           >
             ← Trước
           </button>
@@ -361,7 +361,7 @@ export function FlashCards() {
               type="button"
               onClick={next}
               disabled={isLastCard}
-              className="px-6 py-2 rounded-lg bg-brand-600 hover:bg-brand-700 disabled:opacity-40 text-white text-sm font-medium shadow-sm"
+              className="w-full sm:w-auto px-6 py-2.5 rounded-lg bg-brand-600 hover:bg-brand-700 disabled:opacity-40 text-white text-sm font-medium shadow-sm"
             >
               Tiếp tục →
             </button>
@@ -430,7 +430,7 @@ export function FlashCards() {
             type="button"
             onClick={next}
             disabled={isLastCard}
-            className="px-4 py-2 rounded-lg bg-slate-200 hover:bg-slate-300 disabled:opacity-40 text-slate-700 text-sm font-medium"
+            className="w-full sm:w-auto px-4 py-2.5 rounded-lg bg-slate-200 hover:bg-slate-300 disabled:opacity-40 text-slate-700 text-sm font-medium"
           >
             Sau →
           </button>
@@ -491,7 +491,7 @@ function StartSessionForm({
   const tooSmall = unknownCount <= MIN_QUIZ_SIZE;
   const maxAllowed = Math.max(0, unknownCount - 1);
   return (
-    <div className="w-full max-w-xl mx-auto bg-white border border-slate-200 rounded-2xl shadow-sm p-8 space-y-5">
+    <div className="w-full max-w-xl mx-auto bg-white border border-slate-200 rounded-2xl shadow-sm p-4 sm:p-8 space-y-5">
       <div>
         <h2 className="text-xl font-semibold text-slate-800">Bắt đầu phiên ôn</h2>
         <p className="text-sm text-slate-500 mt-1">
@@ -501,7 +501,7 @@ function StartSessionForm({
         </p>
       </div>
 
-      <div className="flex items-center gap-3">
+      <div className="flex flex-col sm:flex-row sm:items-center gap-3">
         <label htmlFor="quiz-size" className="text-sm text-slate-600 shrink-0">
           Số lượng:
         </label>
@@ -516,7 +516,7 @@ function StartSessionForm({
             onChangeQuizSize(Number.isFinite(v) ? v : 0);
           }}
           disabled={tooSmall}
-          className="w-32 px-3 py-2 rounded-lg border border-slate-300 focus:outline-none focus:ring-2 focus:ring-brand-400 disabled:opacity-50"
+          className="w-full sm:w-32 px-3 py-2 rounded-lg border border-slate-300 focus:outline-none focus:ring-2 focus:ring-brand-400 disabled:opacity-50"
         />
         <span className="text-sm text-slate-500">
           (tối thiểu {MIN_QUIZ_SIZE}, tối đa {maxAllowed})
